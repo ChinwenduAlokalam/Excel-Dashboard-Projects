@@ -22,4 +22,7 @@ The goal of this analysis was to identify:
 - While the **Web platform** had a large number of users, **Agents** contributed the highest to total revenue
 - The **34–44 years** age group made the most transactions via the **Web platform**
 
+📄 [View the Dashboard PDF](Transaction_Performance_Summary_Dashboard.pdf)
+  
+
 
