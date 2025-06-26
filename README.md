@@ -1,10 +1,10 @@
-# 📊 Transaction Performance Summary Dashboard
+## Transaction Performance Summary Dashboard
 
 This project features an Excel dashboard analyzing transaction data to uncover key patterns and revenue drivers across different channels, locations, and customer segments.
 
 ---
 
-### 📊 Overview
+### Overview
 
 The goal of this analysis was to identify:
 - Which **locations**, **channels**, **age groups**, and **transaction types** generated the most revenue
@@ -13,7 +13,7 @@ The goal of this analysis was to identify:
 
 ---
 
-### 📈 Key Insights
+### Key Insights
 
 - The highest number of transactions occurred on **Wednesdays**
 - **Kano** recorded the highest number of transactions overall
